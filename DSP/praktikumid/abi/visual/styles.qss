@@ -1,0 +1,77 @@
+/*
+Seda faili ei tohi ise muuta, et vältida konflikte kursuse korraldajate tehtud muudatustega!
+*/
+
+* {
+    background-color: #262626;
+    color: #e0e0e0;
+    font-family: Titillium;
+    font-size: 14px
+}
+
+QLabel
+{
+    background-color: transparent;
+    color: #fff;
+}
+
+
+/*----- Fancy slider inspiration: https://thesmithfam.org/blog/2010/03/10/fancy-qslider-stylesheet/ -----*/
+
+* [qssClass~="sliders"]::groove:horizontal {
+    border: 1px solid #bbb;
+    background: white;
+    height: 10px;
+    border-radius: 4px;
+}
+
+* [qssClass~="sliders"]::sub-page:horizontal {
+    background: qlineargradient(x1: 0, y1: 0,    x2: 0, y2: 1,
+        stop: 0 #111, stop: 1 #398);
+    background: qlineargradient(x1: 0, y1: 0.2, x2: 1, y2: 1,
+        stop: 0 #398, stop: 1 #111);
+    border: 1px solid #777;
+    height: 10px;
+    border-radius: 4px;
+}
+
+* [qssClass~="sliders"]::add-page:horizontal {
+    background: #fff;
+    border: 1px solid #777;
+    height: 10px;
+    border-radius: 4px;
+}
+
+* [qssClass~="sliders"]::handle:horizontal {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1,
+        stop: 0 #eee, stop: 1 #ccc);
+    border: 1px solid #777;
+    width: 13px;
+    height: 10px;
+    margin-top: -2px;
+    margin-bottom: -2px;
+    border-radius: 4px;
+}
+
+* [qssClass~="sliders"]::handle:horizontal:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1,
+        stop: 0 #fff, stop: 1 #ddd);
+    border: 1px solid #444;
+    border-radius: 4px;
+}
+
+* [qssClass~="sliders"]::sub-page:horizontal:disabled {
+    background: #bbb;
+    border-color: #999;
+}
+
+* [qssClass~="sliders"]::add-page:horizontal:disabled {
+    background: #eee;
+    border-color: #999;
+}
+
+* [qssClass~="sliders"]::handle:horizontal:disabled {
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}

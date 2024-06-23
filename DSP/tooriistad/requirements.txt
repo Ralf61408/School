@@ -1,0 +1,11 @@
+numpy < 1.27
+PyQt5
+pyqtgraph
+pyserial
+pyvisa
+pyvisa-py < 0.7.0
+pyusb
+zeroconf
+psutil
+opencv-python  >= 4.5, <= 5.0
+scipy < 1.13

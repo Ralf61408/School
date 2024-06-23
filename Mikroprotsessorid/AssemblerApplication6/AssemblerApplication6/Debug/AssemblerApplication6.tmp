@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega1280"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\Debug\AssemblerApplication6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication6.map</FILE>
+  <FILE>AssemblerApplication6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tsykkel><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>16</LINE></tsykkel>
+ </LABELS>
+</ASSEMBLER_INFO>

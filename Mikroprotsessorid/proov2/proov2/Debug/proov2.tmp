@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"AT90USB647"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\usb647def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\Debug\proov2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proov2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proov2.map</FILE>
+  <FILE>proov2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main_loop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>18</LINE></Main_loop>
+  <s><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>32</LINE></s>
+  <o><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>40</LINE></o>
+  <sonavahe><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>48</LINE></sonavahe>
+  <tahevahe><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>26</LINE></tahevahe>
+  <delay><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>56</LINE></delay>
+  <punkt><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>92</LINE></punkt>
+  <kriips><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>102</LINE></kriips>
+  <xxx1><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>64</LINE></xxx1>
+  <xxx><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>66</LINE></xxx>
+  <delay_loop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\proov2\proov2\main.asm</FILE><LINE>68</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"AT90USB647"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\usb647def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\Debug\praks3.3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>praks3.3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>praks3.3.map</FILE>
+  <FILE>praks3.3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\main.asm</FILE><LINE>10</LINE></Init>
+  <Main><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\main.asm</FILE><LINE>27</LINE></Main>
+  <USARTtransmit><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\main.asm</FILE><LINE>38</LINE></USARTtransmit>
+  <Kontroll><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks3.3\praks3.3\main.asm</FILE><LINE>40</LINE></Kontroll>
+ </LABELS>
+</ASSEMBLER_INFO>

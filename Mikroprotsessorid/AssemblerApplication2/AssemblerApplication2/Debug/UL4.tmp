@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega1280"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug\UL4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UL4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UL4.map</FILE>
+  <FILE>UL4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main_loop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>14</LINE></Main_loop>
+  <xxx1><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>20</LINE></xxx1>
+  <xxx><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>22</LINE></xxx>
+  <delay_loop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>24</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega1280"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\Debug\praks4.1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>praks4.1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>praks4.1.map</FILE>
+  <FILE>praks4.1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>32</LINE></main>
+  <get_adc><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>38</LINE></get_adc>
+  <compare><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>48</LINE></compare>
+  <xbit><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>52</LINE></xbit>
+  <kolm><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>94</LINE></kolm>
+  <null><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>55</LINE></null>
+  <yks><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>64</LINE></yks>
+  <send_null><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>57</LINE></send_null>
+  <saada><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>213</LINE></saada>
+  <kaks><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>79</LINE></kaks>
+  <send_yks><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>71</LINE></send_yks>
+  <send_kaks><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>86</LINE></send_kaks>
+  <neli><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>111</LINE></neli>
+  <send_kolm><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>104</LINE></send_kolm>
+  <viis><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>128</LINE></viis>
+  <send_neli><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>121</LINE></send_neli>
+  <kuus><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>145</LINE></kuus>
+  <send_viis><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>138</LINE></send_viis>
+  <seitse><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>162</LINE></seitse>
+  <send_kuus><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>155</LINE></send_kuus>
+  <kaheksa><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>179</LINE></kaheksa>
+  <send_seitse><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>172</LINE></send_seitse>
+  <yheksa><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>196</LINE></yheksa>
+  <send_kaheksa><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>189</LINE></send_kaheksa>
+  <send_yheksa><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>206</LINE></send_yheksa>
+  <check><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\praks4.1\praks4.1\main.asm</FILE><LINE>215</LINE></check>
+ </LABELS>
+</ASSEMBLER_INFO>

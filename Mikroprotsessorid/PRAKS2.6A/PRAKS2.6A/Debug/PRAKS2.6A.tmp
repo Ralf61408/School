@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega1280"</DEVICE>
+ <WORKING_DIR>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\Debug\PRAKS2.6A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PRAKS2.6A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PRAKS2.6A.map</FILE>
+  <FILE>PRAKS2.6A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main_loop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>18</LINE></Main_loop>
+  <s><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>64</LINE></s>
+  <o><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>72</LINE></o>
+  <sonavahe><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>80</LINE></sonavahe>
+  <Delay_1ms><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>28</LINE></Delay_1ms>
+  <DelayLoop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>32</LINE></DelayLoop>
+  <Awesome_Delay><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>43</LINE></Awesome_Delay>
+  <AwesomeLoop><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>46</LINE></AwesomeLoop>
+  <tahevahe><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>57</LINE></tahevahe>
+  <punkt><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>87</LINE></punkt>
+  <kriips><FILE>C:\Users\ralfs\Documents\Atmel Studio\7.0\PRAKS2.6A\PRAKS2.6A\main.asm</FILE><LINE>101</LINE></kriips>
+ </LABELS>
+</ASSEMBLER_INFO>
